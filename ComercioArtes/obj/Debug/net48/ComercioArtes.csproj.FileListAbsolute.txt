@@ -1,0 +1,67 @@
+C:\Users\Pc-Master\Downloads\ComercioArtes\bin\Debug\net48\ComercioArtes.exe.config
+C:\Users\Pc-Master\Downloads\ComercioArtes\bin\Debug\net48\ComercioArtes.exe
+C:\Users\Pc-Master\Downloads\ComercioArtes\bin\Debug\net48\ComercioArtes.pdb
+C:\Users\Pc-Master\Downloads\ComercioArtes\obj\Debug\net48\ComercioArtes.csproj.AssemblyReference.cache
+C:\Users\Pc-Master\Downloads\ComercioArtes\obj\Debug\net48\ComercioArtes.Properties.Resources.resources
+C:\Users\Pc-Master\Downloads\ComercioArtes\obj\Debug\net48\ComercioArtes.csproj.GenerateResource.cache
+C:\Users\Pc-Master\Downloads\ComercioArtes\obj\Debug\net48\ComercioArtes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pc-Master\Downloads\ComercioArtes\obj\Debug\net48\ComercioArtes.csproj.CoreCompileInputs.cache
+C:\Users\Pc-Master\Downloads\ComercioArtes\obj\Debug\net48\ComercioArtes.exe
+C:\Users\Pc-Master\Downloads\ComercioArtes\obj\Debug\net48\ComercioArtes.pdb
+C:\Users\Pc-Master\Downloads\ComercioArtes\obj\Debug\net48\ComercioArtes.Forms.Dialogs.ArtistaDialog.resources
+C:\Users\Pc-Master\Downloads\ComercioArtes\obj\Debug\net48\ComercioArtes.Forms.Dialogs.CompradorDialog.resources
+C:\Users\Pc-Master\Downloads\ComercioArtes\obj\Debug\net48\ComercioArtes.Forms.MainForm.resources
+C:\Users\JORDAN G\Documents\ComercioArtes\ComercioArtes\bin\Debug\net48\ComercioArtes.exe.config
+C:\Users\JORDAN G\Documents\ComercioArtes\ComercioArtes\bin\Debug\net48\ComercioArtes.exe
+C:\Users\JORDAN G\Documents\ComercioArtes\ComercioArtes\bin\Debug\net48\ComercioArtes.pdb
+C:\Users\JORDAN G\Documents\ComercioArtes\ComercioArtes\bin\Debug\net48\CapaDatos.dll
+C:\Users\JORDAN G\Documents\ComercioArtes\ComercioArtes\bin\Debug\net48\CapaNegocio.dll
+C:\Users\JORDAN G\Documents\ComercioArtes\ComercioArtes\bin\Debug\net48\CapaNegocio.pdb
+C:\Users\JORDAN G\Documents\ComercioArtes\ComercioArtes\bin\Debug\net48\CapaDatos.pdb
+C:\Users\JORDAN G\Documents\ComercioArtes\ComercioArtes\obj\Debug\net48\ComercioArtes.csproj.AssemblyReference.cache
+C:\Users\JORDAN G\Documents\ComercioArtes\ComercioArtes\obj\Debug\net48\ComercioArtes.Forms.Dialogs.ArtistaDialog.resources
+C:\Users\JORDAN G\Documents\ComercioArtes\ComercioArtes\obj\Debug\net48\ComercioArtes.Forms.Dialogs.CompradorDialog.resources
+C:\Users\JORDAN G\Documents\ComercioArtes\ComercioArtes\obj\Debug\net48\ComercioArtes.Forms.Dialogs.FacturaDialog.resources
+C:\Users\JORDAN G\Documents\ComercioArtes\ComercioArtes\obj\Debug\net48\ComercioArtes.Forms.Dialogs.ObraDialog.resources
+C:\Users\JORDAN G\Documents\ComercioArtes\ComercioArtes\obj\Debug\net48\ComercioArtes.Forms.Dialogs.UsuarioDialog.resources
+C:\Users\JORDAN G\Documents\ComercioArtes\ComercioArtes\obj\Debug\net48\ComercioArtes.Forms.LoginForm.resources
+C:\Users\JORDAN G\Documents\ComercioArtes\ComercioArtes\obj\Debug\net48\ComercioArtes.Forms.MainForm.resources
+C:\Users\JORDAN G\Documents\ComercioArtes\ComercioArtes\obj\Debug\net48\ComercioArtes.Forms.Panels.ArtistasPanel.resources
+C:\Users\JORDAN G\Documents\ComercioArtes\ComercioArtes\obj\Debug\net48\ComercioArtes.Forms.Panels.CompradoresPanel.resources
+C:\Users\JORDAN G\Documents\ComercioArtes\ComercioArtes\obj\Debug\net48\ComercioArtes.Forms.Panels.DashboardPanel.resources
+C:\Users\JORDAN G\Documents\ComercioArtes\ComercioArtes\obj\Debug\net48\ComercioArtes.Forms.Panels.ObrasPanel.resources
+C:\Users\JORDAN G\Documents\ComercioArtes\ComercioArtes\obj\Debug\net48\ComercioArtes.Forms.Panels.TransaccionesPanel.resources
+C:\Users\JORDAN G\Documents\ComercioArtes\ComercioArtes\obj\Debug\net48\ComercioArtes.Properties.Resources.resources
+C:\Users\JORDAN G\Documents\ComercioArtes\ComercioArtes\obj\Debug\net48\ComercioArtes.csproj.GenerateResource.cache
+C:\Users\JORDAN G\Documents\ComercioArtes\ComercioArtes\obj\Debug\net48\ComercioArtes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JORDAN G\Documents\ComercioArtes\ComercioArtes\obj\Debug\net48\ComercioArtes.csproj.CoreCompileInputs.cache
+C:\Users\JORDAN G\Documents\ComercioArtes\ComercioArtes\obj\Debug\net48\Comercio.47879FED.Up2Date
+C:\Users\JORDAN G\Documents\ComercioArtes\ComercioArtes\obj\Debug\net48\ComercioArtes.exe
+C:\Users\JORDAN G\Documents\ComercioArtes\ComercioArtes\obj\Debug\net48\ComercioArtes.pdb
+C:\Users\JORDAN\Desktop\ComercioArtes\ComercioArtes\bin\Debug\net48\ComercioArtes.exe.config
+C:\Users\JORDAN\Desktop\ComercioArtes\ComercioArtes\bin\Debug\net48\ComercioArtes.exe
+C:\Users\JORDAN\Desktop\ComercioArtes\ComercioArtes\bin\Debug\net48\ComercioArtes.pdb
+C:\Users\JORDAN\Desktop\ComercioArtes\ComercioArtes\bin\Debug\net48\CapaDatos.dll
+C:\Users\JORDAN\Desktop\ComercioArtes\ComercioArtes\bin\Debug\net48\CapaNegocio.dll
+C:\Users\JORDAN\Desktop\ComercioArtes\ComercioArtes\bin\Debug\net48\CapaNegocio.pdb
+C:\Users\JORDAN\Desktop\ComercioArtes\ComercioArtes\bin\Debug\net48\CapaDatos.pdb
+C:\Users\JORDAN\Desktop\ComercioArtes\ComercioArtes\obj\Debug\net48\ComercioArtes.csproj.AssemblyReference.cache
+C:\Users\JORDAN\Desktop\ComercioArtes\ComercioArtes\obj\Debug\net48\ComercioArtes.Forms.Dialogs.ArtistaDialog.resources
+C:\Users\JORDAN\Desktop\ComercioArtes\ComercioArtes\obj\Debug\net48\ComercioArtes.Forms.Dialogs.CompradorDialog.resources
+C:\Users\JORDAN\Desktop\ComercioArtes\ComercioArtes\obj\Debug\net48\ComercioArtes.Forms.Dialogs.FacturaDialog.resources
+C:\Users\JORDAN\Desktop\ComercioArtes\ComercioArtes\obj\Debug\net48\ComercioArtes.Forms.Dialogs.ObraDialog.resources
+C:\Users\JORDAN\Desktop\ComercioArtes\ComercioArtes\obj\Debug\net48\ComercioArtes.Forms.Dialogs.UsuarioDialog.resources
+C:\Users\JORDAN\Desktop\ComercioArtes\ComercioArtes\obj\Debug\net48\ComercioArtes.Forms.LoginForm.resources
+C:\Users\JORDAN\Desktop\ComercioArtes\ComercioArtes\obj\Debug\net48\ComercioArtes.Forms.MainForm.resources
+C:\Users\JORDAN\Desktop\ComercioArtes\ComercioArtes\obj\Debug\net48\ComercioArtes.Forms.Panels.ArtistasPanel.resources
+C:\Users\JORDAN\Desktop\ComercioArtes\ComercioArtes\obj\Debug\net48\ComercioArtes.Forms.Panels.CompradoresPanel.resources
+C:\Users\JORDAN\Desktop\ComercioArtes\ComercioArtes\obj\Debug\net48\ComercioArtes.Forms.Panels.DashboardPanel.resources
+C:\Users\JORDAN\Desktop\ComercioArtes\ComercioArtes\obj\Debug\net48\ComercioArtes.Forms.Panels.ObrasPanel.resources
+C:\Users\JORDAN\Desktop\ComercioArtes\ComercioArtes\obj\Debug\net48\ComercioArtes.Forms.Panels.TransaccionesPanel.resources
+C:\Users\JORDAN\Desktop\ComercioArtes\ComercioArtes\obj\Debug\net48\ComercioArtes.Properties.Resources.resources
+C:\Users\JORDAN\Desktop\ComercioArtes\ComercioArtes\obj\Debug\net48\ComercioArtes.csproj.GenerateResource.cache
+C:\Users\JORDAN\Desktop\ComercioArtes\ComercioArtes\obj\Debug\net48\ComercioArtes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JORDAN\Desktop\ComercioArtes\ComercioArtes\obj\Debug\net48\ComercioArtes.csproj.CoreCompileInputs.cache
+C:\Users\JORDAN\Desktop\ComercioArtes\ComercioArtes\obj\Debug\net48\Comercio.47879FED.Up2Date
+C:\Users\JORDAN\Desktop\ComercioArtes\ComercioArtes\obj\Debug\net48\ComercioArtes.exe
+C:\Users\JORDAN\Desktop\ComercioArtes\ComercioArtes\obj\Debug\net48\ComercioArtes.pdb

@@ -1,0 +1,280 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\JORDAN\\Desktop\\ComercioArtes\\ComercioArtes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BBEE123F-6718-440A-95A3-2EEBDFE972C7}|ComercioArtes.csproj|c:\\users\\jordan\\desktop\\comercioartes\\comercioartes\\forms\\dialogs\\seleccionarobradialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBEE123F-6718-440A-95A3-2EEBDFE972C7}|ComercioArtes.csproj|solutionrelative:forms\\dialogs\\seleccionarobradialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBEE123F-6718-440A-95A3-2EEBDFE972C7}|ComercioArtes.csproj|C:\\Users\\JORDAN\\Desktop\\ComercioArtes\\ComercioArtes\\forms\\dialogs\\usuariodialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BBEE123F-6718-440A-95A3-2EEBDFE972C7}|ComercioArtes.csproj|solutionrelative:forms\\dialogs\\usuariodialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBEE123F-6718-440A-95A3-2EEBDFE972C7}|ComercioArtes.csproj|C:\\Users\\JORDAN\\Desktop\\ComercioArtes\\ComercioArtes\\forms\\panels\\transaccionespanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BBEE123F-6718-440A-95A3-2EEBDFE972C7}|ComercioArtes.csproj|solutionrelative:forms\\panels\\transaccionespanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBEE123F-6718-440A-95A3-2EEBDFE972C7}|ComercioArtes.csproj|C:\\Users\\JORDAN\\Desktop\\ComercioArtes\\ComercioArtes\\forms\\dialogs\\seleccionarobradialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BBEE123F-6718-440A-95A3-2EEBDFE972C7}|ComercioArtes.csproj|solutionrelative:forms\\dialogs\\seleccionarobradialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBEE123F-6718-440A-95A3-2EEBDFE972C7}|ComercioArtes.csproj|C:\\Users\\JORDAN\\Desktop\\ComercioArtes\\ComercioArtes\\forms\\dialogs\\transacciondialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BBEE123F-6718-440A-95A3-2EEBDFE972C7}|ComercioArtes.csproj|solutionrelative:forms\\dialogs\\transacciondialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBEE123F-6718-440A-95A3-2EEBDFE972C7}|ComercioArtes.csproj|C:\\Users\\JORDAN\\Desktop\\ComercioArtes\\ComercioArtes\\forms\\panels\\obraspanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BBEE123F-6718-440A-95A3-2EEBDFE972C7}|ComercioArtes.csproj|solutionrelative:forms\\panels\\obraspanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBEE123F-6718-440A-95A3-2EEBDFE972C7}|ComercioArtes.csproj|C:\\Users\\JORDAN\\Desktop\\ComercioArtes\\ComercioArtes\\forms\\panels\\galeriaspanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BBEE123F-6718-440A-95A3-2EEBDFE972C7}|ComercioArtes.csproj|solutionrelative:forms\\panels\\galeriaspanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBEE123F-6718-440A-95A3-2EEBDFE972C7}|ComercioArtes.csproj|C:\\Users\\JORDAN\\Desktop\\ComercioArtes\\ComercioArtes\\forms\\panels\\dashboardpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BBEE123F-6718-440A-95A3-2EEBDFE972C7}|ComercioArtes.csproj|solutionrelative:forms\\panels\\dashboardpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBEE123F-6718-440A-95A3-2EEBDFE972C7}|ComercioArtes.csproj|C:\\Users\\JORDAN\\Desktop\\ComercioArtes\\ComercioArtes\\forms\\panels\\compradorespanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BBEE123F-6718-440A-95A3-2EEBDFE972C7}|ComercioArtes.csproj|solutionrelative:forms\\panels\\compradorespanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBEE123F-6718-440A-95A3-2EEBDFE972C7}|ComercioArtes.csproj|C:\\Users\\JORDAN\\Desktop\\ComercioArtes\\ComercioArtes\\forms\\panels\\artistaspanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BBEE123F-6718-440A-95A3-2EEBDFE972C7}|ComercioArtes.csproj|solutionrelative:forms\\panels\\artistaspanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBEE123F-6718-440A-95A3-2EEBDFE972C7}|ComercioArtes.csproj|C:\\Users\\JORDAN\\Desktop\\ComercioArtes\\ComercioArtes\\forms\\dialogs\\artistadialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BBEE123F-6718-440A-95A3-2EEBDFE972C7}|ComercioArtes.csproj|solutionrelative:forms\\dialogs\\artistadialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBEE123F-6718-440A-95A3-2EEBDFE972C7}|ComercioArtes.csproj|C:\\Users\\JORDAN\\Desktop\\ComercioArtes\\ComercioArtes\\forms\\dialogs\\basedialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BBEE123F-6718-440A-95A3-2EEBDFE972C7}|ComercioArtes.csproj|solutionrelative:forms\\dialogs\\basedialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBEE123F-6718-440A-95A3-2EEBDFE972C7}|ComercioArtes.csproj|C:\\Users\\JORDAN\\Desktop\\ComercioArtes\\ComercioArtes\\forms\\dialogs\\obradialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BBEE123F-6718-440A-95A3-2EEBDFE972C7}|ComercioArtes.csproj|solutionrelative:forms\\dialogs\\obradialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBEE123F-6718-440A-95A3-2EEBDFE972C7}|ComercioArtes.csproj|C:\\Users\\JORDAN\\Desktop\\ComercioArtes\\ComercioArtes\\forms\\dialogs\\compradordialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BBEE123F-6718-440A-95A3-2EEBDFE972C7}|ComercioArtes.csproj|solutionrelative:forms\\dialogs\\compradordialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBEE123F-6718-440A-95A3-2EEBDFE972C7}|ComercioArtes.csproj|C:\\Users\\JORDAN\\Desktop\\ComercioArtes\\ComercioArtes\\forms\\dialogs\\facturadialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BBEE123F-6718-440A-95A3-2EEBDFE972C7}|ComercioArtes.csproj|solutionrelative:forms\\dialogs\\facturadialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBEE123F-6718-440A-95A3-2EEBDFE972C7}|ComercioArtes.csproj|c:\\users\\jordan\\desktop\\comercioartes\\comercioartes\\forms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBEE123F-6718-440A-95A3-2EEBDFE972C7}|ComercioArtes.csproj|solutionrelative:forms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBEE123F-6718-440A-95A3-2EEBDFE972C7}|ComercioArtes.csproj|C:\\Users\\JORDAN\\Desktop\\ComercioArtes\\ComercioArtes\\forms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BBEE123F-6718-440A-95A3-2EEBDFE972C7}|ComercioArtes.csproj|solutionrelative:forms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SeleccionarObraDialog.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\JORDAN\\Desktop\\ComercioArtes\\ComercioArtes\\Forms\\Dialogs\\SeleccionarObraDialog.cs",
+              "RelativeDocumentMoniker": "Forms\\Dialogs\\SeleccionarObraDialog.cs",
+              "ToolTip": "C:\\Users\\JORDAN\\Desktop\\ComercioArtes\\ComercioArtes\\Forms\\Dialogs\\SeleccionarObraDialog.cs [Design]",
+              "RelativeToolTip": "Forms\\Dialogs\\SeleccionarObraDialog.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T18:46:27.441Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TransaccionesPanel.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\JORDAN\\Desktop\\ComercioArtes\\ComercioArtes\\Forms\\Panels\\TransaccionesPanel.cs",
+              "RelativeDocumentMoniker": "Forms\\Panels\\TransaccionesPanel.cs",
+              "ToolTip": "C:\\Users\\JORDAN\\Desktop\\ComercioArtes\\ComercioArtes\\Forms\\Panels\\TransaccionesPanel.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Forms\\Panels\\TransaccionesPanel.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-15T20:28:59.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsuarioDialog.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\JORDAN\\Desktop\\ComercioArtes\\ComercioArtes\\Forms\\Dialogs\\UsuarioDialog.cs",
+              "RelativeDocumentMoniker": "Forms\\Dialogs\\UsuarioDialog.cs",
+              "ToolTip": "C:\\Users\\JORDAN\\Desktop\\ComercioArtes\\ComercioArtes\\Forms\\Dialogs\\UsuarioDialog.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Forms\\Dialogs\\UsuarioDialog.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T18:46:08.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SeleccionarObraDialog.cs",
+              "DocumentMoniker": "C:\\Users\\JORDAN\\Desktop\\ComercioArtes\\ComercioArtes\\Forms\\Dialogs\\SeleccionarObraDialog.cs",
+              "RelativeDocumentMoniker": "Forms\\Dialogs\\SeleccionarObraDialog.cs",
+              "ToolTip": "C:\\Users\\JORDAN\\Desktop\\ComercioArtes\\ComercioArtes\\Forms\\Dialogs\\SeleccionarObraDialog.cs",
+              "RelativeToolTip": "Forms\\Dialogs\\SeleccionarObraDialog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-15T20:19:33.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ObrasPanel.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\JORDAN\\Desktop\\ComercioArtes\\ComercioArtes\\Forms\\Panels\\ObrasPanel.cs",
+              "RelativeDocumentMoniker": "Forms\\Panels\\ObrasPanel.cs",
+              "ToolTip": "C:\\Users\\JORDAN\\Desktop\\ComercioArtes\\ComercioArtes\\Forms\\Panels\\ObrasPanel.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Forms\\Panels\\ObrasPanel.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T18:46:17.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TransaccionDialog.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\JORDAN\\Desktop\\ComercioArtes\\ComercioArtes\\Forms\\Dialogs\\TransaccionDialog.cs",
+              "RelativeDocumentMoniker": "Forms\\Dialogs\\TransaccionDialog.cs",
+              "ToolTip": "C:\\Users\\JORDAN\\Desktop\\ComercioArtes\\ComercioArtes\\Forms\\Dialogs\\TransaccionDialog.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Forms\\Dialogs\\TransaccionDialog.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T18:46:00.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GaleriasPanel.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\JORDAN\\Desktop\\ComercioArtes\\ComercioArtes\\Forms\\Panels\\GaleriasPanel.cs",
+              "RelativeDocumentMoniker": "Forms\\Panels\\GaleriasPanel.cs",
+              "ToolTip": "C:\\Users\\JORDAN\\Desktop\\ComercioArtes\\ComercioArtes\\Forms\\Panels\\GaleriasPanel.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Forms\\Panels\\GaleriasPanel.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T18:46:17.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CompradoresPanel.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\JORDAN\\Desktop\\ComercioArtes\\ComercioArtes\\Forms\\Panels\\CompradoresPanel.cs",
+              "RelativeDocumentMoniker": "Forms\\Panels\\CompradoresPanel.cs",
+              "ToolTip": "C:\\Users\\JORDAN\\Desktop\\ComercioArtes\\ComercioArtes\\Forms\\Panels\\CompradoresPanel.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Forms\\Panels\\CompradoresPanel.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T18:46:15.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ArtistasPanel.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\JORDAN\\Desktop\\ComercioArtes\\ComercioArtes\\Forms\\Panels\\ArtistasPanel.cs",
+              "RelativeDocumentMoniker": "Forms\\Panels\\ArtistasPanel.cs",
+              "ToolTip": "C:\\Users\\JORDAN\\Desktop\\ComercioArtes\\ComercioArtes\\Forms\\Panels\\ArtistasPanel.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Forms\\Panels\\ArtistasPanel.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T18:46:14.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DashboardPanel.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\JORDAN\\Desktop\\ComercioArtes\\ComercioArtes\\Forms\\Panels\\DashboardPanel.cs",
+              "RelativeDocumentMoniker": "Forms\\Panels\\DashboardPanel.cs",
+              "ToolTip": "C:\\Users\\JORDAN\\Desktop\\ComercioArtes\\ComercioArtes\\Forms\\Panels\\DashboardPanel.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Forms\\Panels\\DashboardPanel.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-15T20:47:31.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ArtistaDialog.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\JORDAN\\Desktop\\ComercioArtes\\ComercioArtes\\Forms\\Dialogs\\ArtistaDialog.cs",
+              "RelativeDocumentMoniker": "Forms\\Dialogs\\ArtistaDialog.cs",
+              "ToolTip": "C:\\Users\\JORDAN\\Desktop\\ComercioArtes\\ComercioArtes\\Forms\\Dialogs\\ArtistaDialog.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Forms\\Dialogs\\ArtistaDialog.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T18:46:04.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BaseDialog.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\JORDAN\\Desktop\\ComercioArtes\\ComercioArtes\\Forms\\Dialogs\\BaseDialog.cs",
+              "RelativeDocumentMoniker": "Forms\\Dialogs\\BaseDialog.cs",
+              "ToolTip": "C:\\Users\\JORDAN\\Desktop\\ComercioArtes\\ComercioArtes\\Forms\\Dialogs\\BaseDialog.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Forms\\Dialogs\\BaseDialog.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T18:46:03.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ObraDialog.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\JORDAN\\Desktop\\ComercioArtes\\ComercioArtes\\Forms\\Dialogs\\ObraDialog.cs",
+              "RelativeDocumentMoniker": "Forms\\Dialogs\\ObraDialog.cs",
+              "ToolTip": "C:\\Users\\JORDAN\\Desktop\\ComercioArtes\\ComercioArtes\\Forms\\Dialogs\\ObraDialog.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Forms\\Dialogs\\ObraDialog.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T18:45:56.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CompradorDialog.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\JORDAN\\Desktop\\ComercioArtes\\ComercioArtes\\Forms\\Dialogs\\CompradorDialog.cs",
+              "RelativeDocumentMoniker": "Forms\\Dialogs\\CompradorDialog.cs",
+              "ToolTip": "C:\\Users\\JORDAN\\Desktop\\ComercioArtes\\ComercioArtes\\Forms\\Dialogs\\CompradorDialog.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Forms\\Dialogs\\CompradorDialog.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T18:45:53.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FacturaDialog.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\JORDAN\\Desktop\\ComercioArtes\\ComercioArtes\\Forms\\Dialogs\\FacturaDialog.cs",
+              "RelativeDocumentMoniker": "Forms\\Dialogs\\FacturaDialog.cs",
+              "ToolTip": "C:\\Users\\JORDAN\\Desktop\\ComercioArtes\\ComercioArtes\\Forms\\Dialogs\\FacturaDialog.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Forms\\Dialogs\\FacturaDialog.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T18:45:23.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "C:\\Users\\JORDAN\\Desktop\\ComercioArtes\\ComercioArtes\\Forms\\LoginForm.cs",
+              "RelativeDocumentMoniker": "Forms\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\JORDAN\\Desktop\\ComercioArtes\\ComercioArtes\\Forms\\LoginForm.cs",
+              "RelativeToolTip": "Forms\\LoginForm.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwDYAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T18:30:07.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LoginForm.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\JORDAN\\Desktop\\ComercioArtes\\ComercioArtes\\Forms\\LoginForm.cs",
+              "RelativeDocumentMoniker": "Forms\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\JORDAN\\Desktop\\ComercioArtes\\ComercioArtes\\Forms\\LoginForm.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Forms\\LoginForm.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T18:30:03.448Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
