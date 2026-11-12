@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "Nuevo perfil",
+    "Projects": [
+      {
+        "Path": "ComercioArtes.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "..\\ApiComercioArtes\\ApiComercioArtes.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

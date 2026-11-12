@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "dgSpecHash": "DDuEo8d/wKA=",
+  "success": true,
+  "projectFilePath": "C:\\ComercioArtes(1)\\ComercioArtes\\ComercioArtes\\ComercioArtes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\JORDAN\\.nuget\\packages\\microsoft.reportingservices.reportviewercontrol.winforms\\150.1652.0\\microsoft.reportingservices.reportviewercontrol.winforms.150.1652.0.nupkg.sha512",
+    "C:\\Users\\JORDAN\\.nuget\\packages\\microsoft.sqlserver.types\\14.0.314.76\\microsoft.sqlserver.types.14.0.314.76.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "message": "Microsoft.ReportingServices.ReportViewerControl.Winforms 150.1652.0 depende de Microsoft.SqlServer.Types (>= 14.0.0), pero no se encontró Microsoft.SqlServer.Types 14.0.0. Microsoft.SqlServer.Types 14.0.314.76 se resolvió en su lugar.",
+      "projectPath": "C:\\ComercioArtes(1)\\ComercioArtes\\ComercioArtes\\ComercioArtes.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\ComercioArtes(1)\\ComercioArtes\\ComercioArtes\\ComercioArtes.csproj",
+      "libraryId": "Microsoft.SqlServer.Types",
+      "targetGraphs": [
+        "net48",
+        "net48/win-x86"
+      ]
+    }
+  ]
+}

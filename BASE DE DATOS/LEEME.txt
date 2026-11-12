@@ -1,0 +1,27 @@
+RESPALDOS DE NICAART (Agente SQL Server)
+
+Pasos, todos en SQL Server Management Studio (cada script se ejecuta completo):
+1. 00_Preparar_Respaldos.sql  -> crea C:\Respaldos y cambia la base a modelo FULL.
+2. 01_Crear_Jobs_Agente.sql   -> crea los tres jobs y hace el primer respaldo completo.
+   (El Agente SQL Server debe estar encendido.)
+3. 02_Validar_Jobs.sql        -> muestra los jobs, su historial y los respaldos hechos.
+
+Jobs que se crean:
+- NicaArt_Full:        domingo 11:00 pm
+- NicaArt_Diferencial: lunes a sabado 11:00 pm
+- NicaArt_Log:         cada 2 horas
+Los respaldos se comprimen con WITH COMPRESSION.
+
+Tambien se puede ver en SSMS: Agente SQL Server > Trabajos > clic derecho > Ver historial.
+
+Respaldo manual: respaldo_full.sql, respaldo_dif.sql, respaldo_log.sql.
+Probar la restauracion: restaurar_prueba.sql (restaura en ComercioArtesDB_Prueba).
+Revisar un archivo: validar_respaldos.sql.
+
+Si antes se crearon tareas en el Programador de tareas de Windows (NicaArt_Full,
+NicaArt_Diferencial, NicaArt_Log), borrarlas para que no se dupliquen:
+  schtasks /delete /tn "NicaArt_Full" /f
+  schtasks /delete /tn "NicaArt_Diferencial" /f
+  schtasks /delete /tn "NicaArt_Log" /f
+
+Nota: el servicio de SQL Server necesita permiso de escritura en C:\Respaldos.

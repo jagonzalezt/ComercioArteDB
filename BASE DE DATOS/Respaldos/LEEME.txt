@@ -1,0 +1,22 @@
+RESPALDOS DE NICAART
+
+Para instalar los respaldos:
+1. Abrir el simbolo del sistema como administrador, dentro de esta carpeta.
+2. Ejecutar instalar_respaldos.bat
+   (crea C:\Respaldos, copia los scripts, cambia la base a modelo FULL,
+    hace el primer respaldo completo y crea las tres tareas programadas).
+
+Tareas que se crean:
+- NicaArt_Full:        domingo 11:00 pm (se comprime en ZIP)
+- NicaArt_Diferencial: lunes a sabado 11:00 pm
+- NicaArt_Log:         cada 2 horas
+
+Para revisar que funcionan:
+- Programador de tareas: el ultimo resultado debe ser 0x0.
+- Ejecutar validar_respaldos.sql en SQL Server Management Studio.
+
+Para probar la restauracion:
+- Ejecutar restaurar_prueba.sql (restaura en ComercioArtesDB_Prueba).
+
+Nota: el servidor usado es SQL Server Developer (instancia predeterminada, (local)).
+Las tareas se programan con el Programador de tareas de Windows.

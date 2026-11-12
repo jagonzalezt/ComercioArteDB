@@ -1,0 +1,116 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\ComercioArtes(1)\\ComercioArtes\\ComercioArtes\\ComercioArtes.csproj": {}
+  },
+  "projects": {
+    "C:\\ComercioArtes(1)\\ComercioArtes\\CapaDatos\\CapaDatos.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\ComercioArtes(1)\\ComercioArtes\\CapaDatos\\CapaDatos.csproj",
+        "projectName": "CapaDatos",
+        "projectPath": "C:\\ComercioArtes(1)\\ComercioArtes\\CapaDatos\\CapaDatos.csproj",
+        "UsingMicrosoftNETSdk": false,
+        "frameworks": {
+          "net472": {
+            "framework": "net472",
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "framework": "net472"
+        }
+      }
+    },
+    "C:\\ComercioArtes(1)\\ComercioArtes\\CapaNegocio\\CapaNegocio.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\ComercioArtes(1)\\ComercioArtes\\CapaNegocio\\CapaNegocio.csproj",
+        "projectName": "CapaNegocio",
+        "projectPath": "C:\\ComercioArtes(1)\\ComercioArtes\\CapaNegocio\\CapaNegocio.csproj",
+        "UsingMicrosoftNETSdk": false,
+        "frameworks": {
+          "net472": {
+            "framework": "net472",
+            "projectReferences": {
+              "C:\\ComercioArtes(1)\\ComercioArtes\\CapaDatos\\CapaDatos.csproj": {
+                "projectPath": "C:\\ComercioArtes(1)\\ComercioArtes\\CapaDatos\\CapaDatos.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "framework": "net472"
+        }
+      }
+    },
+    "C:\\ComercioArtes(1)\\ComercioArtes\\ComercioArtes\\ComercioArtes.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\ComercioArtes(1)\\ComercioArtes\\ComercioArtes\\ComercioArtes.csproj",
+        "projectName": "ComercioArtes",
+        "projectPath": "C:\\ComercioArtes(1)\\ComercioArtes\\ComercioArtes\\ComercioArtes.csproj",
+        "packagesPath": "C:\\Users\\JORDAN\\.nuget\\packages\\",
+        "outputPath": "C:\\ComercioArtes(1)\\ComercioArtes\\ComercioArtes\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\JORDAN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "framework": "net48",
+            "targetAlias": "net48",
+            "projectReferences": {
+              "C:\\ComercioArtes(1)\\ComercioArtes\\CapaNegocio\\CapaNegocio.csproj": {
+                "projectPath": "C:\\ComercioArtes(1)\\ComercioArtes\\CapaNegocio\\CapaNegocio.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.400"
+      },
+      "frameworks": {
+        "net48": {
+          "framework": "net48",
+          "targetAlias": "net48",
+          "dependencies": {
+            "Microsoft.ReportingServices.ReportViewerControl.Winforms": {
+              "target": "Package",
+              "version": "[150.1652.0, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.403\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
