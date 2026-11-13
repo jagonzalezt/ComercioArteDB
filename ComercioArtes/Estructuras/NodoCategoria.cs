@@ -2,8 +2,7 @@ using System.Collections.Generic;
 
 namespace ComercioArtes.Estructuras
 {
-    // Un nodo del arbol de categorias.
-    // Una categoria puede tener subcategorias (sus hijos).
+    
     public class NodoCategoria
     {
         public string Nombre;

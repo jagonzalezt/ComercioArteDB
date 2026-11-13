@@ -1,13 +1,6 @@
 namespace ComercioArtes.Estructuras
 {
-    // Arbol de categorias de obras. Ejemplo:
-    //   Obras de arte
-    //     Pintura
-    //       Oleo
-    //       Acuarela
-    //     Escultura
-    //     ...
-    // Los totales de cada categoria se calculan con recursividad.
+    
     public class ArbolCategorias
     {
         public NodoCategoria Raiz;

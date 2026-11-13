@@ -2,10 +2,7 @@ using System.Collections.Generic;
 
 namespace ComercioArtes.Estructuras
 {
-    // Grafo no dirigido con lista de adyacencia.
-    // Cada nodo tiene una clave (por ejemplo "A1" para el artista 1,
-    // "O3" para la obra 3 y "G2" para la galeria 2) y un nombre para mostrar.
-    // En NicaArt relaciona artistas, obras y galerias.
+    
     public class Grafo
     {
         private Dictionary<string, string> nombres = new Dictionary<string, string>();
@@ -20,7 +17,7 @@ namespace ComercioArtes.Estructuras
             vecinos[clave] = new List<string>();
         }
 
-        // Une dos nodos (la union va en los dos sentidos)
+        
         public void AgregarArista(string clave1, string clave2)
         {
             if (!nombres.ContainsKey(clave1) || !nombres.ContainsKey(clave2))
@@ -43,8 +40,7 @@ namespace ComercioArtes.Estructuras
             return vecinos[clave];
         }
 
-        // Recorrido en anchura (BFS) desde un nodo.
-        // Devuelve, para cada nodo alcanzado, el nodo desde el que se llego a el.
+        
         public Dictionary<string, string> RecorrerEnAnchura(string inicio)
         {
             Dictionary<string, string> padres = new Dictionary<string, string>();
@@ -69,7 +65,7 @@ namespace ComercioArtes.Estructuras
             return padres;
         }
 
-        // Arma el camino desde el inicio hasta un destino, usando los padres del recorrido
+        
         public List<string> CaminoHasta(Dictionary<string, string> padres, string destino)
         {
             List<string> camino = new List<string>();
