@@ -453,23 +453,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\JORDAN\\.nuget\\packages\\": {},
+    "C:\\Users\\Ariana Rothschuh\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\ComercioArtes(1)\\ComercioArtes\\ComercioArtes\\ComercioArtes.csproj",
+      "projectUniqueName": "C:\\Users\\Ariana Rothschuh\\source\\repos\\jagonzalezt\\ComercioArteDB\\ComercioArtes\\ComercioArtes.csproj",
       "projectName": "ComercioArtes",
-      "projectPath": "C:\\ComercioArtes(1)\\ComercioArtes\\ComercioArtes\\ComercioArtes.csproj",
-      "packagesPath": "C:\\Users\\JORDAN\\.nuget\\packages\\",
-      "outputPath": "C:\\ComercioArtes(1)\\ComercioArtes\\ComercioArtes\\obj\\",
+      "projectPath": "C:\\Users\\Ariana Rothschuh\\source\\repos\\jagonzalezt\\ComercioArteDB\\ComercioArtes\\ComercioArtes.csproj",
+      "packagesPath": "C:\\Users\\Ariana Rothschuh\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Ariana Rothschuh\\source\\repos\\jagonzalezt\\ComercioArteDB\\ComercioArtes\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\JORDAN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Ariana Rothschuh\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -478,6 +478,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -485,8 +486,8 @@
           "framework": "net48",
           "targetAlias": "net48",
           "projectReferences": {
-            "C:\\ComercioArtes(1)\\ComercioArtes\\CapaNegocio\\CapaNegocio.csproj": {
-              "projectPath": "C:\\ComercioArtes(1)\\ComercioArtes\\CapaNegocio\\CapaNegocio.csproj"
+            "C:\\Users\\Ariana Rothschuh\\source\\repos\\jagonzalezt\\ComercioArteDB\\CapaNegocio\\CapaNegocio.csproj": {
+              "projectPath": "C:\\Users\\Ariana Rothschuh\\source\\repos\\jagonzalezt\\ComercioArteDB\\CapaNegocio\\CapaNegocio.csproj"
             }
           }
         }
@@ -513,7 +514,7 @@
             "version": "[150.1652.0, )"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.403\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.401\\RuntimeIdentifierGraph.json"
       }
     },
     "runtimes": {

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ComercioArte")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+357a7b147a374464b232088c30d59a85b3f68dec")]
 [assembly: System.Reflection.AssemblyProductAttribute("ComercioArte")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ComercioArte")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

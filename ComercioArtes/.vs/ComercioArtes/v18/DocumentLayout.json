@@ -1,21 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\ComercioArtes(1)\\ComercioArtes\\ComercioArtes\\",
+  "WorkspaceRootPath": "C:\\Users\\Ariana Rothschuh\\source\\repos\\jagonzalezt\\ComercioArteDB\\ComercioArtes\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8B648E25-86FC-4DC8-89B3-BDD2849A7073}|..\\ApiComercioArtes\\ApiComercioArtes.csproj|c:\\comercioartes(1)\\comercioartes\\apicomercioartes\\controllers\\nicacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8B648E25-86FC-4DC8-89B3-BDD2849A7073}|..\\ApiComercioArtes\\ApiComercioArtes.csproj|c:\\comercioartes(1)\\comercioartes\\apicomercioartes\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8B648E25-86FC-4DC8-89B3-BDD2849A7073}|..\\ApiComercioArtes\\ApiComercioArtes.csproj|c:\\comercioartes(1)\\comercioartes\\apicomercioartes\\data\\dbcontexsistema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8B648E25-86FC-4DC8-89B3-BDD2849A7073}|..\\ApiComercioArtes\\ApiComercioArtes.csproj|c:\\comercioartes(1)\\comercioartes\\apicomercioartes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8B648E25-86FC-4DC8-89B3-BDD2849A7073}|..\\ApiComercioArtes\\ApiComercioArtes.csproj|c:\\comercioartes(1)\\comercioartes\\apicomercioartes\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{BBEE123F-6718-440A-95A3-2EEBDFE972C7}|ComercioArtes.csproj|c:\\users\\ariana rothschuh\\source\\repos\\jagonzalezt\\comercioartedb\\comercioartes\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BBEE123F-6718-440A-95A3-2EEBDFE972C7}|ComercioArtes.csproj|solutionrelative:forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -25,72 +14,53 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Ariana Rothschuh\\source\\repos\\jagonzalezt\\ComercioArteDB\\ComercioArtes\\Forms\\MainForm.cs",
+              "RelativeDocumentMoniker": "Forms\\MainForm.cs",
+              "ToolTip": "C:\\Users\\Ariana Rothschuh\\source\\repos\\jagonzalezt\\ComercioArteDB\\ComercioArtes\\Forms\\MainForm.cs [Dise\u00F1o]*",
+              "RelativeToolTip": "Forms\\MainForm.cs [Dise\u00F1o]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-13T00:25:23.799Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "UsuariosController.cs",
-              "DocumentMoniker": "C:\\ComercioArtes(1)\\ComercioArtes\\ApiComercioArtes\\Controllers\\UsuariosController.cs",
-              "RelativeDocumentMoniker": "..\\ApiComercioArtes\\Controllers\\UsuariosController.cs",
-              "ToolTip": "C:\\ComercioArtes(1)\\ComercioArtes\\ApiComercioArtes\\Controllers\\UsuariosController.cs",
-              "RelativeToolTip": "..\\ApiComercioArtes\\Controllers\\UsuariosController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-09T21:48:51.25Z"
-            },
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\ComercioArtes(1)\\ComercioArtes\\ApiComercioArtes\\appsettings.json",
-              "RelativeDocumentMoniker": "..\\ApiComercioArtes\\appsettings.json",
-              "ToolTip": "C:\\ComercioArtes(1)\\ComercioArtes\\ApiComercioArtes\\appsettings.json",
-              "RelativeToolTip": "..\\ApiComercioArtes\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-11-09T21:37:47.49Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\ComercioArtes(1)\\ComercioArtes\\ApiComercioArtes\\Program.cs",
-              "RelativeDocumentMoniker": "..\\ApiComercioArtes\\Program.cs",
-              "ToolTip": "C:\\ComercioArtes(1)\\ComercioArtes\\ApiComercioArtes\\Program.cs",
-              "RelativeToolTip": "..\\ApiComercioArtes\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-09T21:36:40.217Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "DbcontexSistema.cs",
-              "DocumentMoniker": "C:\\ComercioArtes(1)\\ComercioArtes\\ApiComercioArtes\\Data\\DbcontexSistema.cs",
-              "RelativeDocumentMoniker": "..\\ApiComercioArtes\\Data\\DbcontexSistema.cs",
-              "ToolTip": "C:\\ComercioArtes(1)\\ComercioArtes\\ApiComercioArtes\\Data\\DbcontexSistema.cs",
-              "RelativeToolTip": "..\\ApiComercioArtes\\Data\\DbcontexSistema.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-09T21:29:27.333Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "NicaController.cs",
-              "DocumentMoniker": "C:\\ComercioArtes(1)\\ComercioArtes\\ApiComercioArtes\\Controllers\\NicaController.cs",
-              "RelativeDocumentMoniker": "..\\ApiComercioArtes\\Controllers\\NicaController.cs",
-              "ToolTip": "C:\\ComercioArtes(1)\\ComercioArtes\\ApiComercioArtes\\Controllers\\NicaController.cs",
-              "RelativeToolTip": "..\\ApiComercioArtes\\Controllers\\NicaController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-09T21:27:32.684Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
             }
           ]
         }

@@ -20,7 +20,9 @@ namespace ComercioArtes.Forms
             CrearBotonEstructuras();
             CrearBotonReportes();
             AplicarRol();
-            // Activar Dashboard al iniciar
+
+            // Activar Dashboard al iniciar la aplicación
+
             btnNavDashboard.PerformClick();
         }
 
@@ -101,7 +103,7 @@ namespace ComercioArtes.Forms
             pnlSidebar.Controls.Add(btnNavEstructuras);
         }
 
-        // Crea el boton de reportes con el mismo estilo de los demas
+        // Crea el boton de reportes con el mismo estilo 
         private void CrearBotonReportes()
         {
             btnNavReportes = new Button();

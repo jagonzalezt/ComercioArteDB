@@ -1,20 +1,20 @@
 {
   "version": 2,
-  "dgSpecHash": "DDuEo8d/wKA=",
+  "dgSpecHash": "Sv162pHu9hA=",
   "success": true,
-  "projectFilePath": "C:\\ComercioArtes(1)\\ComercioArtes\\ComercioArtes\\ComercioArtes.csproj",
+  "projectFilePath": "C:\\Users\\Ariana Rothschuh\\source\\repos\\jagonzalezt\\ComercioArteDB\\ComercioArtes\\ComercioArtes.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\JORDAN\\.nuget\\packages\\microsoft.reportingservices.reportviewercontrol.winforms\\150.1652.0\\microsoft.reportingservices.reportviewercontrol.winforms.150.1652.0.nupkg.sha512",
-    "C:\\Users\\JORDAN\\.nuget\\packages\\microsoft.sqlserver.types\\14.0.314.76\\microsoft.sqlserver.types.14.0.314.76.nupkg.sha512"
+    "C:\\Users\\Ariana Rothschuh\\.nuget\\packages\\microsoft.reportingservices.reportviewercontrol.winforms\\150.1652.0\\microsoft.reportingservices.reportviewercontrol.winforms.150.1652.0.nupkg.sha512",
+    "C:\\Users\\Ariana Rothschuh\\.nuget\\packages\\microsoft.sqlserver.types\\14.0.314.76\\microsoft.sqlserver.types.14.0.314.76.nupkg.sha512"
   ],
   "logs": [
     {
       "code": "NU1603",
       "level": "Warning",
       "message": "Microsoft.ReportingServices.ReportViewerControl.Winforms 150.1652.0 depende de Microsoft.SqlServer.Types (>= 14.0.0), pero no se encontró Microsoft.SqlServer.Types 14.0.0. Microsoft.SqlServer.Types 14.0.314.76 se resolvió en su lugar.",
-      "projectPath": "C:\\ComercioArtes(1)\\ComercioArtes\\ComercioArtes\\ComercioArtes.csproj",
+      "projectPath": "C:\\Users\\Ariana Rothschuh\\source\\repos\\jagonzalezt\\ComercioArteDB\\ComercioArtes\\ComercioArtes.csproj",
       "warningLevel": 1,
-      "filePath": "C:\\ComercioArtes(1)\\ComercioArtes\\ComercioArtes\\ComercioArtes.csproj",
+      "filePath": "C:\\Users\\Ariana Rothschuh\\source\\repos\\jagonzalezt\\ComercioArteDB\\ComercioArtes\\ComercioArtes.csproj",
       "libraryId": "Microsoft.SqlServer.Types",
       "targetGraphs": [
         "net48",
