@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Ariana Rothschuh\\source\\repos\\jagonzalezt\\ComercioArteDB\\ComercioArtes\\",
+  "WorkspaceRootPath": "C:\\Users\\RICARDO\\source\\repos\\jagonzalezt\\ComercioArteDB\\ComercioArtes\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BBEE123F-6718-440A-95A3-2EEBDFE972C7}|ComercioArtes.csproj|c:\\users\\ariana rothschuh\\source\\repos\\jagonzalezt\\comercioartedb\\comercioartes\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{BBEE123F-6718-440A-95A3-2EEBDFE972C7}|ComercioArtes.csproj|c:\\users\\ricardo\\source\\repos\\jagonzalezt\\comercioartedb\\comercioartes\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{BBEE123F-6718-440A-95A3-2EEBDFE972C7}|ComercioArtes.csproj|solutionrelative:forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -19,14 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "MainForm.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Ariana Rothschuh\\source\\repos\\jagonzalezt\\ComercioArteDB\\ComercioArtes\\Forms\\MainForm.cs",
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\RICARDO\\source\\repos\\jagonzalezt\\ComercioArteDB\\ComercioArtes\\Forms\\MainForm.cs",
               "RelativeDocumentMoniker": "Forms\\MainForm.cs",
-              "ToolTip": "C:\\Users\\Ariana Rothschuh\\source\\repos\\jagonzalezt\\ComercioArteDB\\ComercioArtes\\Forms\\MainForm.cs [Dise\u00F1o]*",
-              "RelativeToolTip": "Forms\\MainForm.cs [Dise\u00F1o]*",
+              "ToolTip": "C:\\Users\\RICARDO\\source\\repos\\jagonzalezt\\ComercioArteDB\\ComercioArtes\\Forms\\MainForm.cs [Design]",
+              "RelativeToolTip": "Forms\\MainForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-11-13T00:25:23.799Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Bookmark",
